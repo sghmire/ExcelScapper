@@ -1,7 +1,6 @@
 ExcelSCRAPPER
 
 <p align="left">
-  Tired of creating a custom code to read the excel data from large number of files? Look no futher.
   This simple tool allows you to create your own template from the excel sheet for indexing the data fileds. And will let you extract the data from similarly formatted excel files. 
 </p>
 
