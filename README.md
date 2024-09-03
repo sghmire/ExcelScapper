@@ -1,4 +1,4 @@
-ExcelSCRAPPER
+ExcelScrapper
 
 <p align="left">
   This simple tool allows you to create your own template from the excel sheet for indexing the data fileds. And will let you extract the data from similarly formatted excel files. 
