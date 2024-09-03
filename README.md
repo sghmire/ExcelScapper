@@ -5,10 +5,6 @@ ExcelSCRAPPER
 </p>
 
 <p align="left">
-  <img src="https://github.com/sghmire/ExcelScapper/blob/main/MAIN_1.png" width="800" title="Main Window">
-</p>
-
-<p align="left">
 
 
   
