@@ -8,27 +8,27 @@ ExcelSCRAPPER
 
 
   
-</p>
+</p class="big">
 
 <ul>
 <b> HOW IT WORKS... </b>
- <li> 1. Select the one of the excel that you want to extract the data from. </li> 
+ <li> Select the one of the excel that you want to extract the data from. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step1.png" width="800" title="Step1"> <br>
 
   
- <li> 2. Select Add data fields to extract the index of fileds you want to extract , and click Add. This will prepare a Table Template. </li> 
+ <li> Select Add data fields to extract the index of fileds you want to extract , and click Add. This will prepare a Table Template. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step2.png" width="800" title="Step2"><br>
 
 
-<li> 3. Save the Table Template and Load the template. This is to insure that you always have a backup. </li> 
+<li> Save the Table Template and Load the template. This is to insure that you always have a backup. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step3.png" width="800" title="Step3"> <br>
 
 
-<li> 4. Select the File type, directory to the Excel files and Start/End date. </li> 
+<li> Select the File type, directory to the Excel files and Start/End date. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step4.png" width="800" title="Step4"><br>
 
 
-<li> 5. Start processing. Once complete, Export the table to your desired location. </li> 
+<li> Start processing. Once complete, Export the table to your desired location. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step5.png" width="800" title="Step5"> 
   
 </ul>
