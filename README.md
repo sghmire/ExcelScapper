@@ -25,7 +25,7 @@ HOW IT WORKS...
 <li> 4. Select the File type, directory to the Excel files and Start/End date. </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step4.png" width="800" title="Step4">
 <li> 5. Start processing. Once complete, Export the table to your desired location. </li> 
-<img src="https://github.com/sghmire/ExcelScapper/edit/main/Screens/Step5.png" width="800" title="Step5"> 
+<img src="https://github.com/sghmire/ExcelScapper/blob/main/Screens/Step5.png" width="800" title="Step5"> 
   
 </ul>
 
