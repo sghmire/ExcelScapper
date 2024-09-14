@@ -2,7 +2,7 @@ ExcelScrapper
 
 <p align="left">
   This simple tool allows you to create your own template from the excel sheet for indexing the data fields, and will let you extract the data from large number of similarly formatted excel files. 
-</p>l
+</p>
 
 <p align="left">
 
