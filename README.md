@@ -31,7 +31,7 @@ ExcelScrapper
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/SS/Step5.png" width="800" title="Step4"><br>
 
 
-<li> "Start" processing the data. This will read all the excel sheet from you selected   </li> 
+<li> "Start" processing the data. This will read all the excel sheet from you selected.   </li> 
 <img src="https://github.com/sghmire/ExcelScapper/blob/main/SS/Step6.png" width="800" title="Step5"> 
 
 <li> Choose to "Export" the data for backup and later reuse.  </li> 
